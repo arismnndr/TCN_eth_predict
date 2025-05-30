@@ -43,11 +43,9 @@ streamlit run app.py
 Biasanya akan terbuka otomatis.
 
 **Struktur File**
-app.py : Script utama aplikasi Streamlit.
-
-model_prediksi_ethereum.keras : File model TCN hasil pelatihan.
-
-requirements.txt : Daftar paket Python yang dibutuhkan.
+- app.py : Script utama aplikasi Streamlit.
+- model_prediksi_ethereum.keras : File model TCN hasil pelatihan.
+- requirements.txt : Daftar paket Python yang dibutuhkan.
 
 **Library yang Digunakan**
 Streamlit
